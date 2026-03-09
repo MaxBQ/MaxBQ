@@ -9,11 +9,6 @@
 
 I am a Senior Software Engineer with **6+ years of experience** building high-performance web and mobile applications. I specialize in the **React ecosystem** and have a deep passion for **Feature-Sliced Design (FSD)** and AI-augmented development.
 
-##- 🌍 Based in: **Ashgabat, Turkmenistan** (GMT+5)
-##- 💻 Current Rig: **MacBook Air M4 (16GB RAM)** — optimized for local LLMs.
-##- 🤖 AI Workflow: Power user of **Cursor**, **Claude 3.5 Sonnet**, and **local Qwen 3.5 (9B)** via Ollama.
-- ⚡ Focus: Crafting mission-critical interfaces (ERP, Logistics) and interactive mobile apps.
-
 ---
 
 ## 🛠️ Tech Stack & Skills
@@ -43,11 +38,6 @@ I am a Senior Software Engineer with **6+ years of experience** building high-pe
 ---
 
 ## 🌟 Featured Projects
-
-### 🤖 [FragIQ](https://github.com/MaxBQ/FragIQ)
-*A CS2 Analytics Telegram Bot leveraging Leetify API v3.*
-- **Tech:** Node.js, Grammy, REST API integration.
-- **Key Feature:** Automated match analysis and AI-driven performance tips for competitive players.
 
 ### 🏥 [Dr. Zubareva Mobile](https://apps.apple.com/ru/app/dr-zubareva/id6752993909)
 *A high-traffic Health & Fitness app available on the App Store.*
