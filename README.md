@@ -2,7 +2,7 @@
 ### Senior Frontend Engineer | AI-Driven Developer | Architecture Enthusiast
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Maksat%20Bekmuradov&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Maxat%20Bekmuradov&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
 ## 🚀 About Me
