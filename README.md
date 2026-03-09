@@ -37,23 +37,10 @@ I am a Senior Software Engineer with **6+ years of experience** building high-pe
 
 ---
 
-## 🌟 Featured Projects
-
-### 🏥 [Dr. Zubareva Mobile](https://apps.apple.com/ru/app/dr-zubareva/id6752993909)
-*A high-traffic Health & Fitness app available on the App Store.*
-- **Tech:** React Native, Reanimated 3, Custom Video Player.
-- **Focus:** Implemented complex onboarding animations and smooth media handling.
-
-### 🏗️ [Railway Logistics ERP]
-*Mission-critical system for Turkmenistan State Railways.*
-- **Tech:** React, TypeScript, Redux, FSD.
-- **Result:** Optimized logisticians' workflow by 40% through intelligent keyboard navigation and data pre-fetching.
-
----
-
 ## 📫 Connect with me
 
 <p align="left">
+<a href="https://www.linkedin.com/in/maxat-bekmuradov-47a580231" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://t.me/MaxBQN" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="mailto:maksat.bek93@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://career.habr.com/maxbq" target="blank"><img src="https://img.shields.io/badge/Habr_Career-00a2ed?style=for-the-badge&logo=habr&logoColor=white" /></a>
