@@ -9,9 +9,9 @@
 
 I am a Senior Software Engineer with **6+ years of experience** building high-performance web and mobile applications. I specialize in the **React ecosystem** and have a deep passion for **Feature-Sliced Design (FSD)** and AI-augmented development.
 
-//- 🌍 Based in: **Ashgabat, Turkmenistan** (GMT+5)
-//- 💻 Current Rig: **MacBook Air M4 (16GB RAM)** — optimized for local LLMs.
-//- 🤖 AI Workflow: Power user of **Cursor**, **Claude 3.5 Sonnet**, and **local Qwen 3.5 (9B)** via Ollama.
+##- 🌍 Based in: **Ashgabat, Turkmenistan** (GMT+5)
+##- 💻 Current Rig: **MacBook Air M4 (16GB RAM)** — optimized for local LLMs.
+##- 🤖 AI Workflow: Power user of **Cursor**, **Claude 3.5 Sonnet**, and **local Qwen 3.5 (9B)** via Ollama.
 - ⚡ Focus: Crafting mission-critical interfaces (ERP, Logistics) and interactive mobile apps.
 
 ---
