@@ -1,4 +1,4 @@
-# Hi there, I'm Maksat! 👋 
+# Hi there, I'm Maxat! 👋 
 ### Senior Frontend Engineer | AI-Driven Developer | Architecture Enthusiast
 
 <p align="center">
@@ -49,7 +49,7 @@ I am a Senior Software Engineer with **6+ years of experience** building high-pe
 - **Tech:** Node.js, Grammy, REST API integration.
 - **Key Feature:** Automated match analysis and AI-driven performance tips for competitive players.
 
-### 🏥 [Dr. Zubareva Mobile](https://apps.apple.com/app/id6475653198)
+### 🏥 [Dr. Zubareva Mobile](https://apps.apple.com/ru/app/dr-zubareva/id6752993909)
 *A high-traffic Health & Fitness app available on the App Store.*
 - **Tech:** React Native, Reanimated 3, Custom Video Player.
 - **Focus:** Implemented complex onboarding animations and smooth media handling.
